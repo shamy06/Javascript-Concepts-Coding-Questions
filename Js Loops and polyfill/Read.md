@@ -1,0 +1,1 @@
+Polyfill:- A piece of code that provide native support to the older browsers who does not have the support of modern functionalities of javascript is known as polyfill.
